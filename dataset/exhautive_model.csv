@@ -1,0 +1,14 @@
+,n,r2adj,AIC,COUPON,DISTANCE,E_INCOME,E_POP,GATE_Free,HI,NEW,PAX,SLOT_Free,SW_Yes,S_INCOME,S_POP,VACATION_Yes
+0,1,0.45310713241704714,4149.881509065282,False,True,False,False,False,False,False,False,False,False,False,False,False
+1,2,0.6057151540067444,4025.892420143417,False,True,False,False,False,False,False,False,False,True,False,False,False
+2,3,0.7069093753309805,3913.5851251528993,False,True,False,False,False,False,False,False,False,True,False,False,True
+3,4,0.7249765894601139,3890.2682106490856,False,True,False,False,False,True,False,False,False,True,False,False,True
+4,5,0.7375839192847112,3873.32829579729,False,True,False,False,True,True,False,False,False,True,False,False,True
+5,6,0.7519469512913595,3852.808698092678,False,True,False,False,True,True,False,False,True,True,False,False,True
+6,7,0.7587466622504643,3843.1709601490966,False,True,False,True,False,True,False,True,False,True,False,True,True
+7,8,0.765104698634588,3833.9458655627914,False,True,False,True,True,True,False,True,False,True,False,True,True
+8,9,0.7702658205923318,3826.433471437797,False,True,False,True,True,True,False,True,True,True,False,True,True
+9,10,0.7735665926875468,3821.876901268484,False,True,True,True,True,True,False,True,True,True,False,True,True
+10,11,0.773594829454384,3822.798222256988,False,True,True,True,True,True,False,True,True,True,True,True,True
+11,12,0.7735586692166712,3823.8253982768365,False,True,True,True,True,True,True,True,True,True,True,True,True
+12,13,0.7732924042867068,3825.237680016252,True,True,True,True,True,True,True,True,True,True,True,True,True
